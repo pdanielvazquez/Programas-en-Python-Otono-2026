@@ -1,0 +1,10 @@
+# Requisitos para la integración de la librería DLL
+# No requiere paquetes externos de Python.
+# El proyecto usa la librería estándar ctypes.
+#
+# Recomendado:
+# - Python 3.10 o superior
+# - DLL compilada para la misma arquitectura que Python (x64 con Python x64)
+# - Microsoft Visual C++ Redistributable si la DLL depende de runtime de C++
+
+# No se instalan dependencias adicionales con pip.
